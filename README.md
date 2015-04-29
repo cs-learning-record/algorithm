@@ -64,6 +64,7 @@
 39. [我接触过的前端数据结构与算法](https://juejin.im/post/5958bac35188250d892f5c91)
 40. [手把手撕 LeetCode 题目](https://github.com/labuladong/fucking-algorithm)
 41. [数据结构和算法](https://reaperlee.cn/ds-al/)
+42. [每天一道算法题](https://github.com/louzhedong/blog)
 
 ### 联系作者
 
