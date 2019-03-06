@@ -45,13 +45,9 @@
 20. [强烈推荐 GitHub 上值得前端学习的数据结构与算法项目](https://segmentfault.com/a/1190000019842169)
 21. [谈谈「数据模型」是如何解决前端数据处理的痛点](https://mp.weixin.qq.com/s/e061ugOvHoQqTe6EYqYHug)
 22. [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1)
-23. [递归和动态规划](https://mp.weixin.qq.com/s/GtnJYvvOoyeXH0h3tZZAkA)
-24. [数据结构与算法之美](https://time.geekbang.org/column/article/39922)
-25. [JavaScript 数据结构和算法](https://github.com/careteenL/data-structure_algorithm)
-26. [数据结构与算法之递归系列](https://mp.weixin.qq.com/s/yy4LBfr-h5qvvQKncgFIug)
-27. [数据结构知否知否系列之 — 线性表的顺序与链式存储篇（8000 多字长文）](https://mp.weixin.qq.com/s/wj8PJT1ZJNvYgpd_Kn8uoA)
-28. [前端高频算法面试——动态规划](https://mp.weixin.qq.com/s/po9s6cod7AGGqKsh5ufBjw)
-29. [聊聊面试必考-递归思想与实战](https://juejin.im/post/5d85cda3f265da03b638e918)
+23. [数据结构与算法之美](https://time.geekbang.org/column/article/39922)
+24. [JavaScript 数据结构和算法](https://github.com/careteenL/data-structure_algorithm)
+25. [数据结构知否知否系列之 — 线性表的顺序与链式存储篇（8000 多字长文）](https://mp.weixin.qq.com/s/wj8PJT1ZJNvYgpd_Kn8uoA)
 
 ### 联系作者
 
