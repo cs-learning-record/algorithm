@@ -19,3 +19,4 @@
 1. [从头开始复习算法之让你彻底搞清楚BFS和DFS](https://mp.weixin.qq.com/s/AAsbpVevRRGEMrT7SdH60Q)
 1. [页面需要渲染10万条数据，应该怎么实现？](https://www.cnblogs.com/ldld/p/11028179.html)
 1. [vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
+1. [算法学习笔记](https://github.com/nonstriater/Learn-Algorithms)
