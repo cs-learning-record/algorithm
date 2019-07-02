@@ -20,3 +20,4 @@
 1. [页面需要渲染10万条数据，应该怎么实现？](https://www.cnblogs.com/ldld/p/11028179.html)
 1. [vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
 1. [算法学习笔记](https://github.com/nonstriater/Learn-Algorithms)
+2. [JavaScript实现的算法和数据结构](https://github.com/ConardLi/awesome-coding-js)
