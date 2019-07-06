@@ -1,3 +1,16 @@
+![image](./img/timg.jpg)
+<br>
+
+## 前言
+
+本人平时学习及收集内容，欢迎参入一起讨论。
+
+## 关于作者
+
+暂时欠着
+
+## 目录
+
 1. 常见数据结构
 1. 时间复杂度与空间复杂度
 2. [JavaScript 数据结构与算法之美 - 时间和空间复杂度](https://github.com/biaochenxuying/blog/issues/29)
@@ -22,3 +35,11 @@
 21. [vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
 22. [算法学习笔记](https://github.com/nonstriater/Learn-Algorithms)
 23. [JavaScript实现的算法和数据结构](https://github.com/ConardLi/awesome-coding-js)
+
+### 联系作者
+<div align="center">
+    <p>
+        在颠覆世界的同时，也要好好关照自己。
+    </p>
+    <img src="./img/contact.png" />
+</div>
