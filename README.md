@@ -59,6 +59,7 @@
 2. [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
 3. [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 4. [降维打击！为什么我认为数据结构与算法对前端开发很重要](https://mp.weixin.qq.com/s/w532W5aVO67MyMeSpkI3uQ)
+5. [强烈推荐 GitHub 上值得前端学习的数据结构与算法项目](https://segmentfault.com/a/1190000019842169)
 
 ### 联系作者
 
