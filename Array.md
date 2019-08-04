@@ -21,6 +21,7 @@
 一个存储元素的线性集合(collection)，元素可以通过索引来任意存 取，索引通常是数字，用来计算元素之间存储位置的偏移量。几乎所有的编程语言都有类 似的数据结构。
 
 ```
+
 ```
 
 ### 二、数组使用
@@ -31,8 +32,14 @@
 
 ### 四、空间复杂度
 
-## 参考资料
+### 五、相关试题
 
+- [二维数组中的查找](https://xin-tan.com/passages/2019-06-23-array-find/)
+- [数组顺序调整](https://xin-tan.com/passages/2019-06-23-array-change-location/)
+- [把数组排成最小的数](https://xin-tan.com/passages/2019-06-23-array-min-numbers/)
+- [数组中的逆序对](https://xin-tan.com/passages/2019-06-23-array-inverse-pair/)
+
+## 参考资料
 
 ## 联系作者
 
