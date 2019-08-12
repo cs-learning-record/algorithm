@@ -45,6 +45,7 @@
 20. [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 21. [降维打击！为什么我认为数据结构与算法对前端开发很重要](https://mp.weixin.qq.com/s/w532W5aVO67MyMeSpkI3uQ)
 22. [强烈推荐 GitHub 上值得前端学习的数据结构与算法项目](https://segmentfault.com/a/1190000019842169)
+23. [谈谈「数据模型」是如何解决前端数据处理的痛点](https://mp.weixin.qq.com/s/e061ugOvHoQqTe6EYqYHug)
 
 ### 联系作者
 
