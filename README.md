@@ -50,6 +50,7 @@
 25. [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1)
 26. [递归和动态规划](https://mp.weixin.qq.com/s/GtnJYvvOoyeXH0h3tZZAkA)
 27. [数据结构与算法之美](https://time.geekbang.org/column/article/39922)
+28. [JavaScript数据结构和算法](https://github.com/careteenL/data-structure_algorithm)
 
 ### 联系作者
 
