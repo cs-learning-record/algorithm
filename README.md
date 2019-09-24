@@ -51,6 +51,7 @@
 26. [递归和动态规划](https://mp.weixin.qq.com/s/GtnJYvvOoyeXH0h3tZZAkA)
 27. [数据结构与算法之美](https://time.geekbang.org/column/article/39922)
 28. [JavaScript数据结构和算法](https://github.com/careteenL/data-structure_algorithm)
+29. [数据结构与算法之递归系列](https://mp.weixin.qq.com/s/yy4LBfr-h5qvvQKncgFIug)
 
 ### 联系作者
 
