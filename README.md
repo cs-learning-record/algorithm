@@ -11,9 +11,9 @@
 
 ## 数据结构
 
-|                                                                    I                                                                    |  II   |  III  |  IV   |   V   |   VI   |  VII   | VIII  |  IX   |
-| :-------------------------------------------------------------------------------------------------------------------------------------: | :---: | :---: | :---: | :---: | :----: | :----: | :---: | :---: |
-| [大O时间复杂度](https://github.com/cs-learning-record/algorithm/blob/master/%E5%A4%A7O%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6.md) | 数组  | 链表  | 队列  |  栈   | 哈希表 | 字典树 |  树   |  图   |
+|                                                                     I                                                                     |  II   |  III  |  IV   |   V   |   VI   |  VII   | VIII  |  IX   |
+| :---------------------------------------------------------------------------------------------------------------------------------------: | :---: | :---: | :---: | :---: | :----: | :----: | :---: | :---: |
+| [大 O 时间复杂度](https://github.com/cs-learning-record/algorithm/blob/master/%E5%A4%A7O%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6.md) | 数组  | 链表  | 队列  |  栈   | 哈希表 | 字典树 |  树   |  图   |
 
 ## 算法
 
@@ -53,8 +53,9 @@
 28. [JavaScript数据结构和算法](https://github.com/careteenL/data-structure_algorithm)
 29. [数据结构与算法之递归系列](https://mp.weixin.qq.com/s/yy4LBfr-h5qvvQKncgFIug)
 30. [数据结构知否知否系列之 — 线性表的顺序与链式存储篇（8000 多字长文）](https://mp.weixin.qq.com/s/wj8PJT1ZJNvYgpd_Kn8uoA)
-31. [前端高频算法面试——动态规划](https://mp.weixin.qq.com/s/po9s6cod7AGGqKsh5ufBjw)
-32. [聊聊面试必考-递归思想与实战](https://juejin.im/post/5d85cda3f265da03b638e918)
+31. [JavaScript 数据结构和算法](https://github.com/careteenL/data-structure_algorithm)
+32. [前端高频算法面试——动态规划](https://mp.weixin.qq.com/s/po9s6cod7AGGqKsh5ufBjw)
+33. [聊聊面试必考-递归思想与实战](https://juejin.im/post/5d85cda3f265da03b638e918)
 
 ### 联系作者
 
