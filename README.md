@@ -11,15 +11,15 @@
 
 ## 数据结构
 
-|                                                                     I                                                                     |  II   |  III  |  IV   |   V   |   VI   |  VII   | VIII  |  IX   |
-| :---------------------------------------------------------------------------------------------------------------------------------------: | :---: | :---: | :---: | :---: | :----: | :----: | :---: | :---: |
-| [大 O 时间复杂度](https://github.com/cs-learning-record/algorithm/blob/master/%E5%A4%A7O%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6.md) | 数组  | 链表  | 队列  |  栈   | 哈希表 | 字典树 |  树   |  图   |
+|                                                                     I                                                                     |  II  | III  |  IV  |  V  |   VI   |  VII   | VIII | IX  |
+| :---------------------------------------------------------------------------------------------------------------------------------------: | :--: | :--: | :--: | :-: | :----: | :----: | :--: | :-: |
+| [大 O 时间复杂度](https://github.com/cs-learning-record/algorithm/blob/master/%E5%A4%A7O%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6.md) | 数组 | 链表 | 队列 | 栈  | 哈希表 | 字典树 |  树  | 图  |
 
 ## 算法
 
-|    I     |    II    |   III    |    IV    |    V     |    VI    |  VII   |   VIII   |   IX   |    X     |  XI   |   XII    |    IX    |    X     |
-| :------: | :------: | :------: | :------: | :------: | :------: | :----: | :------: | :----: | :------: | :---: | :------: | :------: | :------: |
-| 冒泡排序 | 选择排序 | 插入排序 | 希尔排序 | 归并排序 | 快速排序 | 堆排序 | 计数排序 | 桶排序 | 基数排序 | 递归  | 查找算法 | 贪心算法 | 分治算法 | 回溯算法 |
+|    I     |    II    |   III    |    IV    |    V     |    VI    |  VII   |   VIII   |   IX   |    X     |  XI  |   XII    |    IX    |    X     |
+| :------: | :------: | :------: | :------: | :------: | :------: | :----: | :------: | :----: | :------: | :--: | :------: | :------: | :------: |
+| 冒泡排序 | 选择排序 | 插入排序 | 希尔排序 | 归并排序 | 快速排序 | 堆排序 | 计数排序 | 桶排序 | 基数排序 | 递归 | 查找算法 | 贪心算法 | 分治算法 | 回溯算法 |
 
 ## 参考资料
 
@@ -42,7 +42,7 @@
 17. [vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
 18. [算法学习笔记](https://github.com/nonstriater/Learn-Algorithms)
 19. [JavaScript 实现的算法和数据结构](https://github.com/ConardLi/awesome-coding-js)
-20. [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
+20. [数据结构和算法必知必会的 50 个代码实现](https://github.com/wangzheng0822/algo)
 21. [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 22. [降维打击！为什么我认为数据结构与算法对前端开发很重要](https://mp.weixin.qq.com/s/w532W5aVO67MyMeSpkI3uQ)
 23. [强烈推荐 GitHub 上值得前端学习的数据结构与算法项目](https://segmentfault.com/a/1190000019842169)
@@ -50,12 +50,13 @@
 25. [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1)
 26. [递归和动态规划](https://mp.weixin.qq.com/s/GtnJYvvOoyeXH0h3tZZAkA)
 27. [数据结构与算法之美](https://time.geekbang.org/column/article/39922)
-28. [JavaScript数据结构和算法](https://github.com/careteenL/data-structure_algorithm)
+28. [JavaScript 数据结构和算法](https://github.com/careteenL/data-structure_algorithm)
 29. [数据结构与算法之递归系列](https://mp.weixin.qq.com/s/yy4LBfr-h5qvvQKncgFIug)
 30. [数据结构知否知否系列之 — 线性表的顺序与链式存储篇（8000 多字长文）](https://mp.weixin.qq.com/s/wj8PJT1ZJNvYgpd_Kn8uoA)
 31. [JavaScript 数据结构和算法](https://github.com/careteenL/data-structure_algorithm)
 32. [前端高频算法面试——动态规划](https://mp.weixin.qq.com/s/po9s6cod7AGGqKsh5ufBjw)
 33. [聊聊面试必考-递归思想与实战](https://juejin.im/post/5d85cda3f265da03b638e918)
+34. [[译] JavaScript 中的数据结构：写给前端软件工程师](https://juejin.im/post/5de754faf265da33b12e8615)
 
 ### 联系作者
 
