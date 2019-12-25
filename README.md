@@ -58,6 +58,7 @@
 33. [聊聊面试必考-递归思想与实战](https://juejin.im/post/5d85cda3f265da03b638e918)
 34. [[译] JavaScript 中的数据结构：写给前端软件工程师](https://juejin.im/post/5de754faf265da33b12e8615)
 35. [剑指 offer -- JavaScript 版](https://www.nowcoder.com/discuss/49349)
+36. [LeetBook](https://github.com/hk029/leetbook)
 
 ### 联系作者
 
