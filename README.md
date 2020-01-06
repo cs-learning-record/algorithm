@@ -59,6 +59,7 @@
 34. [[译] JavaScript 中的数据结构：写给前端软件工程师](https://juejin.im/post/5de754faf265da33b12e8615)
 35. [剑指 offer -- JavaScript 版](https://www.nowcoder.com/discuss/49349)
 36. [LeetBook](https://github.com/hk029/leetbook)
+37. [前端数据结构与算法入门篇](https://juejin.im/post/5d65ffa051882518e0056241)
 
 ### 联系作者
 
