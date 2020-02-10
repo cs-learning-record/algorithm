@@ -61,6 +61,7 @@
 36. [前端数据结构与算法入门篇](https://juejin.im/post/5d65ffa051882518e0056241)
 37. [vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
 38. [算法学习笔记](https://github.com/nonstriater/Learn-Algorithms)
+39. [前端算法系统练习指南](http://47.98.159.95/leetcode-js/nav/)
 
 ### 联系作者
 
