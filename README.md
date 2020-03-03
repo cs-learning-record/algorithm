@@ -58,6 +58,7 @@
 33. [剑指 offer -- JavaScript 版](https://www.nowcoder.com/discuss/49349)
 34. [LeetBook](https://github.com/hk029/leetbook)
 35. [前端数据结构与算法入门篇](https://juejin.im/post/5d65ffa051882518e0056241)
+36. [(1.8w字)负重前行，前端工程师如何系统练习数据结构和算法？【上】](https://juejin.im/post/5e2f88156fb9a02fdd38a184)
 
 ### 联系作者
 
