@@ -62,6 +62,7 @@
 37. [前端算法系统练习指南](http://47.98.159.95/leetcode-js/nav/)
 38. [(1.8w 字)负重前行，前端工程师如何系统练习数据结构和算法？【上】](https://juejin.im/post/5e4e9c6451882549331ce8d4)
 39. [我接触过的前端数据结构与算法](https://juejin.im/post/5958bac35188250d892f5c91)
+40. [手把手撕LeetCode题目](https://github.com/labuladong/fucking-algorithm)
 
 ### 联系作者
 
