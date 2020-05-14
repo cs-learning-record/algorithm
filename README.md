@@ -69,6 +69,7 @@
 44. [数据结构与算法](https://mp.weixin.qq.com/s/s0t6PP1fVu68dKop_CreIA)
 45. [10 问 10 答，带你快速入门前端算法](https://mp.weixin.qq.com/s/i8NbR1LjqhQEPxOILPSacA)
 46. [小浩算法目录汇总](https://mp.weixin.qq.com/s/3eJNKDTZ5y5icMnfv9Is_w)
+47. [从最简单的斐波那契数列来学习动态规划。（JavaScript 版本）](https://mp.weixin.qq.com/s/Sj4mB0V9TXHB5XpQLsrTEw)
 
 ### 联系作者
 
