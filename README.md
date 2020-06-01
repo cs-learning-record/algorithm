@@ -70,6 +70,7 @@
 45. [10 问 10 答，带你快速入门前端算法](https://mp.weixin.qq.com/s/i8NbR1LjqhQEPxOILPSacA)
 46. [小浩算法目录汇总](https://mp.weixin.qq.com/s/3eJNKDTZ5y5icMnfv9Is_w)
 47. [从最简单的斐波那契数列来学习动态规划。（JavaScript 版本）](https://mp.weixin.qq.com/s/Sj4mB0V9TXHB5XpQLsrTEw)
+48. [前端算法渣的救赎之路](https://juejin.im/post/5ed32e0151882542fd351696)
 
 ### 联系作者
 
