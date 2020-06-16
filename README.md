@@ -71,6 +71,7 @@
 46. [小浩算法目录汇总](https://mp.weixin.qq.com/s/3eJNKDTZ5y5icMnfv9Is_w)
 47. [从最简单的斐波那契数列来学习动态规划。（JavaScript 版本）](https://mp.weixin.qq.com/s/Sj4mB0V9TXHB5XpQLsrTEw)
 48. [前端算法渣的救赎之路](https://juejin.im/post/5ed32e0151882542fd351696)
+49. [前端电商 sku 的全排列算法很难吗？学会这个套路，彻底掌握排列组合。](https://mp.weixin.qq.com/s/pL-Hyl42PmZqt1oujflJEA)
 
 ### 联系作者
 
