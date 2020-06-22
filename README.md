@@ -71,7 +71,7 @@
 46. [小浩算法目录汇总](https://mp.weixin.qq.com/s/3eJNKDTZ5y5icMnfv9Is_w)
 47. [从最简单的斐波那契数列来学习动态规划。（JavaScript 版本）](https://mp.weixin.qq.com/s/Sj4mB0V9TXHB5XpQLsrTEw)
 48. [前端算法渣的救赎之路](https://juejin.im/post/5ed32e0151882542fd351696)
-49. [前端电商 sku 的全排列算法很难吗？学会这个套路，彻底掌握排列组合。](https://mp.weixin.qq.com/s/pL-Hyl42PmZqt1oujflJEA)
+49. [前端电商 sku 的全排列算法很难吗？学会这个套路，彻底掌握排列组合。](https://juejin.im/post/5ee6d9026fb9a047e60815f1)
 50. [分分钟学会前端 sku 算法（商品多规格选择）](https://juejin.im/post/5eef2fcee51d4574113a0203)
 51. [前端「N 皇后」递归回溯经典问题图解，面试难倒无数前端的经典问题。](https://mp.weixin.qq.com/s/4d-fdX8wyjs1LS-mo9TQFg)
 
