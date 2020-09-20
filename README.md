@@ -78,6 +78,7 @@
 53. [hello-algorithm](https://github.com/geekxh/hello-algorithm)
 54. [Leetcode刷题之路](https://zhuanlan.zhihu.com/yuzhenLeetcode)
 55. [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
+56. [再见！算法](https://mp.weixin.qq.com/s/zl6Ruy0FY7EhMrrmcWASdw)
 
 ### 联系作者
 
