@@ -79,6 +79,7 @@
 54. [Leetcode刷题之路](https://zhuanlan.zhihu.com/yuzhenLeetcode)
 55. [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
 56. [再见！算法](https://mp.weixin.qq.com/s/zl6Ruy0FY7EhMrrmcWASdw)
+53. [前端算法渣的救赎之路](https://juejin.im/post/6844904175562653710)
 
 ### 联系作者
 
