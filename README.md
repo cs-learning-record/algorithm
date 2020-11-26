@@ -81,6 +81,7 @@
 56. [再见！算法](https://mp.weixin.qq.com/s/zl6Ruy0FY7EhMrrmcWASdw)
 53. [前端算法渣的救赎之路](https://juejin.im/post/6844904175562653710)
 54. [智力题](https://github.com/CavsZhouyou/Front-End-Interview-Notebook/blob/master/%E7%AE%97%E6%B3%95/%E6%99%BA%E5%8A%9B%E9%A2%98.md)
+55. [分治法、动态规划与贪心算法的区别](https://github.com/coffe1891/frontend-hard-mode-interview/blob/master/2/2.1.6.md)
 
 ### 联系作者
 
